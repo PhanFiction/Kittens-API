@@ -1,3 +1,6 @@
+# This is part of an assignment from the odin project called Project Kittens
+* Task is to use Flickr API and allow users to query the api to display a list of images
+
 # README
 
 This README would normally document whatever steps are necessary to get the
